@@ -1,0 +1,2 @@
+Link - https://www.kaggle.com/code/leekltw1/from-analysis-to-modeling-rf-lstm/notebook
+102 - standard scalar
